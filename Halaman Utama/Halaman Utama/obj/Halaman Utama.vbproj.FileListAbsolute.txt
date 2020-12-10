@@ -1,0 +1,4 @@
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\obj\Debug\Halaman_Utama.Form1.resources
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\obj\Debug\Halaman_Utama.Resources.resources
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\obj\Debug\Halaman Utama.vbproj.GenerateResource.Cache

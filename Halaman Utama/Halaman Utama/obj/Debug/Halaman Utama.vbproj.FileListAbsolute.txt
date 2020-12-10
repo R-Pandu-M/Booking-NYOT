@@ -1,0 +1,9 @@
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\bin\Debug\Halaman Utama.exe
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\bin\Debug\Halaman Utama.pdb
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\bin\Debug\Halaman Utama.xml
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\obj\Debug\Halaman_Utama.Form1.resources
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\obj\Debug\Halaman_Utama.Resources.resources
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\obj\Debug\Halaman Utama.vbproj.GenerateResource.Cache
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\obj\Debug\Halaman Utama.exe
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\obj\Debug\Halaman Utama.xml
+C:\Users\RIMA\Documents\Visual Studio 2005\Projects\Halaman Utama\Halaman Utama\obj\Debug\Halaman Utama.pdb
